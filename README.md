@@ -1,4 +1,4 @@
-# Classificacao Morfologica de Galaxias
+# Classificação Morfológica de Galáxias
 Este projeto de Deep Learning se concentra na classificação morfológica de galáxias utilizando o dataset Galaxy10 DECaLS. O objetivo é comparar o desempenho de diferentes arquiteturas de Redes Neurais Convolucionais (CNNs) — desde modelos customizados até a aplicação de Transfer Learning com modelos pré-treinados (ResNet-50).
 
 Escolha do Dataset:
